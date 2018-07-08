@@ -1,0 +1,19 @@
+return keyword
+R: not required
+python: required
+
+boolean
+R: TRUE, FALSE
+python: True, False
+
+indent
+R: not required
+python: crucial! the indent specify the code
+For example:
+R:
+if (X==TRUE) {
+return (X)
+}
+Python:
+if (X==True):
+  return (X)
